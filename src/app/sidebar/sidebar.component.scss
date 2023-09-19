@@ -1,0 +1,18 @@
+.sidebar{
+    position: fixed;
+    
+    background-color: aqua;
+    height: 100vh;
+    width: 200px;
+    .li {
+        background-color: greenyellow;
+        font-size: 20px;
+        display: flex;
+        margin-top: 50px;
+        margin-left: 15px;
+    
+    &:hover{
+        font-size: x-large;
+        background-color: gold;
+    }}
+}
